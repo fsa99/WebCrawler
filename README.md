@@ -1,2 +1,4 @@
 # WebCrawler
 Python网络爬虫，个人学习日常使用的小的python程序，主要用于学习！！！
+
+1、Wallhaven网站壁纸下载：浏览这个网站时看到一大堆一大堆喜欢的壁纸，就写了这个程序进行简单的爬取下载；给指定的页面，会先爬出总页数，然后分别对每一页的图片进行爬取；对横屏壁纸和竖屏壁纸做了区分储存，图片高度大于宽度的存放在downloaded_images\iphone_images文件夹中，宽度大于高度的存放在downloaded_images\PC_images文件夹
